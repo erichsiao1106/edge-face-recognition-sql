@@ -1,5 +1,14 @@
-# 利用偵測出來的手指關節點，設計演算法來對電腦輸入的實時手勢辨識<br>
+# 提供即時的臉部偵測及辨識，運行於邊緣裝置，無需等待臉部影像上傳至雲端的時間<br>
 實作影片
+![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/face-recognition.gif)
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/sql.jpg)
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/preprocess-face.gif)
-preprocessing_face.mkv
+
+
+# 目的
+1.
+2.
+3.
+
+
+
