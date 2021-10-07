@@ -3,7 +3,7 @@
 
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/face-recognition.gif)
 
-![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/preprocess-face.gif)
+
 
 
 # 目的
@@ -13,3 +13,6 @@
 
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/sql.jpg)
 
+
+連續拍照40張來當作識別的分類器的根據
+![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/preprocess-face.gif)
