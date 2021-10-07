@@ -14,5 +14,7 @@
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/sql.jpg)
 
 
-連續拍照40張來當作識別的分類器的根據
+儲存臉部資訊:<br>
+連續拍照40張來當作識別的分類器的根據<br>
+資訊都儲存在邊緣端，兼顧即時性與隱私性<br>
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/preprocess-face.gif)
