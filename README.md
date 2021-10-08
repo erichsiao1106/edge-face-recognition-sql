@@ -2,8 +2,7 @@
 實作影片
 
 ![Alt Text](https://github.com/erichsiao1106/edge-face-recognition-sql/blob/main/face-recognition.gif)
-
-
+# 將辨識出來的人名、辨識時間等打卡資料即時儲存在資料庫，<br>
 
 
 # 目的
